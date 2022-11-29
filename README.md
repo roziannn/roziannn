@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Firda Rosiana
+![visitors](https://visitor-badge.glitch.me/badge?page_id=roziannn&left_color=green&right_color=red)
 
 <!-- Conecct section -->
 ## <h2>Connect with me </h3>
