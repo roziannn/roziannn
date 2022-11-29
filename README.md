@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Firda Rosiana
+### Hi, I'm Firda Rosiana 👋
 
 <!-- Git Stats-->
 ## <h3 align="left">GitHub Stats</h3>
