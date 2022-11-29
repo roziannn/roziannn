@@ -1,6 +1,7 @@
 ### Hi there 👋
 <!-- Conecct section -->
 <h2>Connect with me </h3>
+
 [![Linkedin: firda](https://img.shields.io/badge/-Firda%20Rosiana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firdarsn/)](https://www.linkedin.com/in/firdarsn)
 <!--
 **roziannn/roziannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
