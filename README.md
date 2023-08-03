@@ -1,9 +1,11 @@
 ### Hi, I'm Firda Rosiana 👋
 
 <!-- Git Stats-->
-## <h3 align="left">GitHub Stats</h3>
+## <h3 align="left">Github Stats</h3>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roziannn&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+![roziannn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=roziannn&theme=react&hide_border=false)
 
 <!-- Conecct section -->
 ## <h3>Connect with me </h3>
