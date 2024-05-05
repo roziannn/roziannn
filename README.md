@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://beacons.ai/firdarosi](https://beacons.ai/firdarosi)
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel, .NET Core & Fitness Stuff**
 
 - 📫 How to reach me **firdaroziana10@gmail.com**
 
