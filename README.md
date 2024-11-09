@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer 🏁</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning ReactJs and .NET Core<br>👨‍💻 All of my projects are available at https://firdarsn-webflow.io<br>💬 Discuss with me about Laravel, .NET & Fitness Stuff<br>📫 How to reach me: firdaroziana10@gmail.com<br>⚡ Fun fact I'm a fan of red beans and chest day at the gym! 💪
+🌱 I’m currently learning ReactJs and .NET Core<br>👨‍💻 All of my projects documentation are available at https://firdarosianatanj.vercel.app<br>💬 Discuss with me about Laravel, .NET & Fitness Stuff<br>📫 How to reach me: firdaroziana10@gmail.com<br>⚡ Fun fact I'm a fan of red beans and chest day at the gym! 💪
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roziannn&label=Profile%20views&color=0e75b6&style=flat" alt="roziannn" /> </p>
 
