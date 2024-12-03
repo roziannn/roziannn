@@ -1,7 +1,7 @@
 <h3 align="center">A passionate full stack developer 🏁</h3>
 
 # 💫 About Me:
-🌱 2+ years of experience in developing and maintaining web-based applications<br>👨‍💻 All of my projects documentation are available at https://firdarosianatanj.vercel.app<br>💬 Discuss with me about Laravel, .NET & Fitness Stuff<br>⚡ Fun fact I'm a fan of red beans and chest day at the gym! 💪
+🌱 2+ years of experience in developing and maintaining web-based applications<br>👨‍💻 All of my projects documentation are available at https://firdarosianatanj.vercel.app<br>💬 Discuss with me about Laravel, .NET, JavaScript & Fitness Stuff<br>⚡ Fun fact I'm a fan of red beans and chest day at the gym! 💪
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roziannn&label=Profile%20views&color=0e75b6&style=flat" alt="roziannn" /> </p>
 
@@ -13,8 +13,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roziannn&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roziannn&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
