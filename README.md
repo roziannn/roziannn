@@ -1,6 +1,4 @@
-<h3 align="center">A passionate full stack developer 🏁</h3>
-
-# 💫 About Me:
+# 👋 About Me:
 💹 An amateur trader <br>
 🌱 2+ years of experience in developing and maintaining web-based applications<br>💬 Discuss with me about Laravel, .NET, JavaScript & Fitness Stuff<br>⚡ Fun fact I'm a fan of red beans and chest day at the gym! 💪
 
