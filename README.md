@@ -1,6 +1,6 @@
 # 👋 About Me:
-💹 An amateur trader <br>
-🌱 2+ years of experience in developing and maintaining web-based applications<br>💬 Discuss with me about Laravel, .NET, JavaScript & Fitness Stuff<br>⚡ Fun fact I'm a fan of red beans and chest day at the gym! 💪
+🚘 Ford Mustang Enthusiasts <br>
+🌱 3+ years of experience in developing and maintaining web-based applications<br>💬 Discuss with me about Laravel, .NET, JavaScript & Fitness Stuff<br>⚡ Fun fact I'm a fan of red beans and chest day at the gym! 💪
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roziannn&label=Profile%20views&color=0e75b6&style=flat" alt="roziannn" /> </p>
 
